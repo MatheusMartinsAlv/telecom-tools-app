@@ -284,11 +284,11 @@ Este projeto é privado.
 
 ## 👨‍💻 Desenvolvido por
 
-TelecomTools Suite Team
+Matheus Martins Alves
 
 ---
 
 **Status**: 🚧 Em Desenvolvimento
 
-**Última atualização**: Novembro 2024
+**Última atualização**: Junho 2026
 
