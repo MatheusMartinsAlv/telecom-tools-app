@@ -270,7 +270,7 @@ BACKEND_CORS_ORIGINS=["http://localhost:3000", "https://seu-app.vercel.app"]
 2. Verifique `NEXT_PUBLIC_API_URL`
 3. Verifique CORS no backend
 
-## 🤝 Contribuind
+## 🤝 Contribuindo
 
 1. Fork o projeto
 2. Crie uma branch: `git checkout -b feature/nova-funcionalidade`
